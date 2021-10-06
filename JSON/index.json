@@ -1060,5 +1060,14 @@
     "landmark": "Ramoji film city",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/330px-Ramoji_Film_City.jpg",
     "description": "Ramoji Film City is an integrated film studio complex located in Hyderabad, India. Spread over 1,666 acres, it is the largest integrated film city in the world and as such has been certified by the Guinness World Records as the largest studio complex in the world."
+  },
+  {
+    "id": 172,
+    "state": "Goa",
+    "city": "Goa",
+    "locality": "Loutolim Road, Ambora, Salcete, Goa",
+    "landmark": "Casa Araujo Alvares",
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.TiiDABP523m-hCI4kei4vAAAAA%26pid%3DApi&f=1",
+    "description": "Casa Araujo Alvares is the 250 year old mansion belongs to the Alvares family and forms part of the Ancestral Goa tourist complex, set up to recreate Goan village life under Portuguese rule."
   }
 ]
